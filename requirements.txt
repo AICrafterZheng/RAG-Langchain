@@ -1,0 +1,9 @@
+langchain
+openai
+azure-search-documents
+azure-identity
+unstructured
+tiktoken
+rich #for console formatting
+gradio
+python-dotenv
